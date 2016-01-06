@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: Web-Demo
+Version: 0.0.1
+Summary: Web Application Demo
+Home-page: UNKNOWN
+Author: Anderson Liu
+Author-email: lhongda@live.com
+License: UNKNOWN
+Description: #ReadMe
+        
+        ## About this project
+        
+        ### This is the practices project for OpenStack learning.
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
